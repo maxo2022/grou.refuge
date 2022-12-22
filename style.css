@@ -1,0 +1,100 @@
+
+.Menu ul li{
+  display: inline; 
+  text-decoration: none;
+}  
+  
+.Menu-navigation {
+  width: 50%px;
+  height: 50px;
+  background-color: yellowgreen;
+  border: 20px solid white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+  
+
+
+
+   .Menu li {
+    display:  inline;
+    padding-right: 25px;
+    
+    }
+     
+   
+
+    .Menu a {
+    text-decoration: none;
+    
+    }
+     
+
+  
+  .video1 {
+    border: 20px intset white;
+    width: 60%;
+    height: 450px;
+   }
+  
+
+   /* If the screen size is 600px wide or less, hide the element */
+@media screen and (max-width: 600px) {
+  h1 {
+    width: 60%;
+   font-size: 15;
+   
+   
+    
+    
+    }
+}
+
+
+
+  body {
+    margin-left: 80px ;
+    margin-right: 80px;
+    background-color: lightblue;
+    border: 20px outset white;
+    
+ }
+
+   footer {
+  text-align: left;
+  padding: 0px;
+  background-color: rgb(219, 230, 197);
+  color: black;
+  padding-bottom: 0px;
+  border: 2px inset lightblue;
+  }
+
+
+
+ .accueil-texte {
+  width: 60%;
+  height: 350px;
+  text-align: left;
+  border: 10px inset white;
+  background-color: lightblue;
+  width: auto;
+  height: auto;
+  font-size: 18px;
+}
+
+
+
+  .video1 {
+  border: 20px intset white;
+  width: 80%;
+  height: 450px;
+ }
+
+
+address {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 20px intset white;
+ }
+
+
